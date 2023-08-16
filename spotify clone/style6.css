@@ -1,0 +1,34 @@
+#a{
+    height: 300px;
+    width: 1000px;
+    background-color: chartreuse;
+    border: 2px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-radius: 10px;
+    align-content: space-around;
+    
+}
+.b{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+   text-align: center;
+   justify-items: center;
+   margin: 10px;
+}
+#navbar{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+   
+}
+.a{
+    margin: 10px 133px;
+    padding: 10px;
+    color: black;
+}

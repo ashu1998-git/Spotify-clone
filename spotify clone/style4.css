@@ -1,0 +1,31 @@
+#box1{width:100px;
+    height:100px;
+    background:green;}
+   
+#box1:hover{
+        width:600px;
+        transition: ease-in-out 5s;
+    }
+    #box2{width:100px;
+        height:100px
+        ;background:red;
+    }
+    #box2:hover{
+        transform: translate(200px,200px) rotate(30deg);
+    }
+    #box3{width:100px;
+        height:100px;
+        background:lightblue;}
+        #box3:hover{
+            transform: skew(-20deg);
+        }
+        #box4{width:100px;
+            height:100px;
+            background:lightgreen;}
+            
+            #box4{
+                box-shadow: 2px 2px 5px ;
+                background-image: url(wall.jpg);
+             opacity: 50%;
+             background-size: cover;
+            }

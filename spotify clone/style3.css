@@ -1,0 +1,30 @@
+#a{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: rgb(14, 234, 226);
+    
+}
+.b{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(235, 217, 16);
+    border-radius: 50%;
+}
+.c{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    margin: 42px 43px 5px 30px; 
+}
+.d{
+    height: 50px;
+    width: 100px;
+    background-color: peru;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin: 45px;
+    position: absolute;
+}
